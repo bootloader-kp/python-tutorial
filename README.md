@@ -1,6 +1,11 @@
 # ConstantNIT
 PythonTutorial
 
+Where to practice?
+=====
+* https://www.hackerrank.com/dashboard
+* https://www.codechef.com/
+
 References
 =====
 * https://github.com/rajathkmp/Python-Lectures
