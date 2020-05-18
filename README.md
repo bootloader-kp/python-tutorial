@@ -10,11 +10,12 @@ Where to practice?
 
 Note:
 =====
+* Videos are also available for the tutorials. You can watch the tutorials after requesting for access. For the request please * <a href="https://drive.google.com/drive/folders/11UhjgfFYGJs_sH5PEDCfvlCSVjZqSVRM" target="_blank">Click Here</a>
 * All the feedback and suggestions are welcome for the tutorial. Please write to me at kailash.prasad@iitgn.ac.in.
 
 References
 =====
-I have taken most most of the materials from the following references. A special thanks to oops group for a wonderful material on Object Oriented Programming.
+I have taken most of the materials from the following references. A special thanks to oops group for a wonderful material on Object Oriented Programming.
 * https://github.com/rajathkmp/Python-Lectures
 * https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 * https://github.com/zhiyzuo/python-tutorial
