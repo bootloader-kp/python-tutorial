@@ -1,13 +1,20 @@
-# ConstantNIT
-PythonTutorial
+# Python Tutorial
+In today's world, programming has become the fourth basic need for life. Irrespective of the branch you are and course you are doing, the knowledge of programming is essential. It doesn't matter whether you are in class 8th or you are doing a Ph.D., you can always start to learn program.
+
+So in pursuit of understanding programming, let's start with one of the most popular programming languages of the century. In this tutorial, we will start from the very basics of python and will gradually move to advanced topics.
 
 Where to practice?
 =====
 * https://www.hackerrank.com/dashboard
 * https://www.codechef.com/
 
+Note:
+=====
+* All the feedback and suggestions are welcome for the tutorial. Please write to me at kailash.prasad@iitgn.ac.in.
+
 References
 =====
+I have taken most most of the materials from the following references. A special thanks to oops group for a wonderful material on Object Oriented Programming.
 * https://github.com/rajathkmp/Python-Lectures
 * https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 * https://github.com/zhiyzuo/python-tutorial
