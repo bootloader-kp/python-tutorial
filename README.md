@@ -10,7 +10,7 @@ Where to practice?
 
 Note:
 =====
-* Videos are also available for the tutorials. You can watch the tutorials after requesting for access. For the request please * <a href="https://drive.google.com/drive/folders/11UhjgfFYGJs_sH5PEDCfvlCSVjZqSVRM" target="_blank">Click Here</a>
+* Videos are also available for the tutorials. You can watch the tutorials after requesting for access. For the request please *<a href="https://drive.google.com/drive/folders/11UhjgfFYGJs_sH5PEDCfvlCSVjZqSVRM" target="_blank">Click Here</a>
 * All the feedback and suggestions are welcome for the tutorial. Please write to me at kailash.prasad@iitgn.ac.in.
 
 References
