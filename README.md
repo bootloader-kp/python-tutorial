@@ -27,3 +27,4 @@ I have taken most of the materials from the following references. A special than
 * https://github.com/jerry-git/learn-python3 
 * https://www.tutorialspoint.com/python3/index.htm 
 * OOPS : https://github.com/earthlab/oop-group
+* Python for Hardware Design : https://gogul.dev/hardware/python-for-hardware-design
