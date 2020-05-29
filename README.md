@@ -15,6 +15,7 @@ Videos:
 Feedback and Suggestion:
 =====
 * All the feedback and suggestions are welcome for the tutorial. Please write to me at kailash.prasad@iitgn.ac.in.
+* For other interesting presentation and tutorial visit my site http://kailash-prasad.github.io/
 
 References
 =====
