@@ -3,6 +3,51 @@ In today's world, programming has become the fourth basic need for life. Irrespe
 
 So in pursuit of understanding programming, let's start with one of the most popular programming languages of the century. In this tutorial, we will start from the very basics of python and will gradually move to advanced topics.
 
+Topics Covered
+====
+- Introduction
+  - Motivation
+  - Installing Jupyter Lab
+  - Some Best Coding Practice
+
+- Python Basics
+  - Numbers
+  - Strings
+  - Conditionals
+  - Loops
+  - Lists
+  - Dictionaries
+  - Functions
+  - Modules
+  - Exception Handling
+  - A simple Project - Web Development using Python
+  - Standard Libraries
+    - Datetime, logging, random, re
+    - Some examples 
+      - PDF Processing
+      - Google Text to Speech
+
+- Python Advanced
+  - Numpy
+  - An in-depth visit to all the Errors
+  - Python Tips and Tricks
+  - Pandas
+  - Matplotlib
+    - Plots
+    - Animations
+  - Object-Oriented Programming
+    - Introduction
+    - OOPS Concept
+    - Classes and Methods
+    - Music Player using OOPS
+    - Image Processing using OOPS
+    - Inheritance and Polymorphism
+    - Abstract Classes
+- Python Presentations
+  - OpenCV Image Processing Library
+  - Regular Expressions
+
+
 Where to practice?
 =====
 * https://www.hackerrank.com/dashboard
