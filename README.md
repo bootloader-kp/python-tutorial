@@ -37,8 +37,8 @@ Topics Covered
     - Animations
   - Object-Oriented Programming
     - Introduction
-    - OOPS Concept
-    - Classes and Methods
+      - OOPS Concept
+      - Classes and Methods
     - Music Player using OOPS
     - Image Processing using OOPS
     - Inheritance and Polymorphism
