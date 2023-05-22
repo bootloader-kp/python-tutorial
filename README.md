@@ -55,7 +55,7 @@ Where to practice?
 
 Videos:
 =====
-* Videos are also available for the tutorials. You can watch the tutorials after requesting for access. For the request please <a href="https://drive.google.com/drive/folders/11UhjgfFYGJs_sH5PEDCfvlCSVjZqSVRM" target="_blank">Click Here</a>
+* Videos are also available for the tutorials. You can watch the tutorials after requesting for access. For the request please <a href="https://iitgnacin-my.sharepoint.com/:f:/g/personal/kailash_prasad_iitgn_ac_in/EvPSWZPOe-VLpREK4elUUVIB7LA2tD-kIk5AUDoj-w2mfA?e=JxBvb9" target="_blank">Click Here</a>
 
 Feedback and Suggestion:
 =====
